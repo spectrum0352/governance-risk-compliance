@@ -3,7 +3,6 @@
 * HackerRank – [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)
 * LinkedIn Feed – [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 * Naukri – [https://www.naukri.com/](https://www.naukri.com/)
-* Naukri (Security Jobs Pune) – [https://www.naukri.com/security-jobs-in-pune](https://www.naukri.com/security-jobs-in-pune)
 * Indeed India – [https://in.indeed.com/](https://in.indeed.com/)
 * Greenhouse Dashboard – [https://my.greenhouse.io/dashboard](https://my.greenhouse.io/dashboard)
 * Experis Dashboard – [https://www.experis.com/en/candidate/dashboard-profile](https://www.experis.com/en/candidate/dashboard-profile)
@@ -37,7 +36,6 @@
 * Apollo Careers – [https://www.apollo.com/careers](https://www.apollo.com/careers)
 * Athene Careers – [https://athene.wd5.myworkdayjobs.com/](https://athene.wd5.myworkdayjobs.com/)
 * BNY Careers – [https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs)
-* BNY Work With Us – [https://www.bny.com/corporate/global/en/about-us/careers/work-with-us.html](https://www.bny.com/corporate/global/en/about-us/careers/work-with-us.html)
 * Apex Group Careers – [https://theapexgroup.wd3.myworkdayjobs.com/](https://theapexgroup.wd3.myworkdayjobs.com/)
 * Equifax Careers – [https://careers.equifax.com/](https://careers.equifax.com/)
 * Fiserv Careers – [https://careers.fiserv.com/](https://careers.fiserv.com/)
@@ -70,10 +68,10 @@
 # Job Applications & Tracking
 
 * Northern Trust – Technology Risk Specialist
-  [https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India/Technology-Risk-Specialist_R142964-1](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India/Technology-Risk-Specialist_R142964-1)
+  [https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India)
 
 * Cerence – Senior Information Security Engineer
-  [https://cerence.wd5.myworkdayjobs.com/en-US/Cerence/job/Hinjewadi%2C-Pune/Senior-Information-Security-Engineer_R0005768](https://cerence.wd5.myworkdayjobs.com/en-US/Cerence/job/Hinjewadi%2C-Pune/Senior-Information-Security-Engineer_R0005768)
+  [https://cerence.wd5.myworkdayjobs.com/en-US/Cerence/job](https://cerence.wd5.myworkdayjobs.com/en-US/Cerence/job)
 
 # AI & Productivity Tools
 
@@ -190,34 +188,3 @@
 * Security Architect Interview Questions – [https://insightglobal.com/blog/security-architect-interview-questions/](https://insightglobal.com/blog/security-architect-interview-questions/)
 * Cyber Security Architect Interview Questions (Careerera) – [https://www.careerera.com/blog/cyber-security-architect-interview-questions-and-answers](https://www.careerera.com/blog/cyber-security-architect-interview-questions-and-answers)
 
-# Articles & References
-
-* BP–Microsoft Strategic Partnership
-  [https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals.html](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals.html)
-
-# Background Verification
-
-* Sterling RISQ (First Advantage) – [https://candidate.sterlingrisq.com/](https://candidate.sterlingrisq.com/)
-
-## Duplicates Removed
-
-The following duplicate entries appeared multiple times in the original list and were consolidated:
-
-* Microsoft Careers
-* NVIDIA Careers
-* CrowdStrike Careers
-* Mastercard Careers
-* Barclays Careers
-* ChatGPT
-* Google Gemini
-* LinkedIn Feed
-* Indeed India
-* Naukri Security Jobs
-* Greenhouse Dashboard
-* Google Security Checkup
-* Google Authentication Tools
-* Google Password Manager
-* Google Password Checkup
-* Cybersecurity Interview Questions
-* Cloud Security Architect Interview Questions
-* Security Architect Interview Questions
